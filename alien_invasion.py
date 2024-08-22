@@ -24,3 +24,5 @@ def run_game():
         #print(len(bullets)) 
         gf.update_screen(ai_settings, screen, ship, bullets)
 run_game()
+#Comment added on thurday
+
